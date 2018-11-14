@@ -1,0 +1,30 @@
+*{
+	margin:0pt;
+}
+.header{
+	background-color:green;
+	height:25%;
+	width:100%;
+}
+.container{
+		background-color:white;
+	height:60%;
+	width:100%;
+}
+.footer{
+	background-color:green;
+	height:15%;
+	width:100%;	
+}
+.first{
+	height:100%;
+	width:30%;
+	background-color:lightgreen;
+	float:left;
+}
+.second{
+	float:left;
+	background-color:whitesmoke;
+	height:100%;
+	width:70%;
+}
